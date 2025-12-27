@@ -91,3 +91,5 @@ venv/
 *venv
 *venv/
 *.sqlite3
+*venv/*
+*db.sqlite3
